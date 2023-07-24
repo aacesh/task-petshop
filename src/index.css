@@ -324,8 +324,8 @@ button {
   width: 170.102px;
   height: 176.187px;
   transform: rotate(-166.464deg);
-  left: 59.23px;
-  bottom: 0;
+  left: 79.23px;
+  bottom: 26px;
 }
 
 .image-1 {
@@ -339,7 +339,7 @@ button {
 }
 
 .image-2 {
-  top: 372.17px;
+  top: 366.02px;
   left: 193.24px;
   border-radius: 8px;
   border: 6px solid white;
@@ -352,7 +352,8 @@ button {
 
 .image-3 {
   top: 247.17px;
-  left: 305.06px;
+  /* right: 20.31px; */
+  left: 297.19px;
   border-radius: 8px;
   border: 6px solid white;
   height: auto;
