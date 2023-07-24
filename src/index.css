@@ -232,6 +232,7 @@ button {
   font-weight: 900;
   line-height: 60px;
   height: 50px;
+  margin-bottom: 8px;
 }
 
 
@@ -243,13 +244,13 @@ button {
   font-style: normal;
   font-weight: 600;
   line-height: 32px;
-  padding: 8px 0px 0px 225px;
+  padding-left:  225px;
 }
 
 .hero .slide-button {
   display: flex;
   justify-content: space-between;
-  margin-top: 109.5px;
+  margin-top: 101.5px;
   padding-inline: 24px;
   width: 100%;
 }
