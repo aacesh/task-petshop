@@ -473,6 +473,7 @@ button {
   font-weight: 500;
   line-height: 32px;
   width: 1142px;
+  padding-top: 4px;
 }
 
 .service-list-container {
