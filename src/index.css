@@ -611,13 +611,13 @@ button {
   display: flex;
   flex-direction: column;
   width: 282px;
-  height: 350px;
+  /* height: 350px; */
   flex-shrink: 0;
   margin: 0px 8px 16px 8px;
   border-radius: 12px;
   border: 1px solid #D4D2E3;
   background: #FFF;
-  padding: 8px;
+  padding: 8px 8px 0 8px;
 }
 
 
@@ -634,12 +634,12 @@ button {
   font-style: normal;
   font-weight: 800;
   line-height: 24px;
-  padding-top: 8px;
+  padding-top: 15px;
 }
 
 #pet .card-container .detail {
   display: flex;
-  padding: 4px 0;
+  padding: 4px 0 17px 0;
 
 }
 
@@ -653,6 +653,7 @@ button {
   width: 106px;
   text-align: start;
 }
+
 
 #pet .card-container span .data {
   font-weight: 700;

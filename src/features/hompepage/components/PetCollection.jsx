@@ -19,7 +19,9 @@ const PetCollection = () => {
               </div>
               <h3>{data.title}</h3>
               <div className="detail">
-                <span>
+                <span
+                  className="gender"
+                >
                   Gender:
                   <span className="data">{data.gender}</span>
                 </span>
